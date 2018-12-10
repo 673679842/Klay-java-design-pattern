@@ -12,6 +12,7 @@
         <module>abstract-factory</module>
         <module>abstract-factory</module>
         <module>test</module>
+        <module>builder</module>
     </modules>
 
 
