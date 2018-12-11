@@ -13,6 +13,7 @@
         <module>abstract-factory</module>
         <module>test</module>
         <module>builder</module>
+        <module>adapter</module>
     </modules>
 
 
