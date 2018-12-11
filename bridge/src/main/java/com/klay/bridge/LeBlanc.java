@@ -1,6 +1,6 @@
 package com.klay.bridge;
 
-public class LeBlanc implements Hero {
+public class LeBlanc extends Hero {
     private SkillQ q;
 
     LeBlanc(SkillQ q){

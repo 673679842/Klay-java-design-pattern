@@ -1,6 +1,6 @@
 package com.klay.bridge;
 
-public class Vayne implements Hero {
+public class Vayne extends Hero {
 
     private SkillQ q;
 

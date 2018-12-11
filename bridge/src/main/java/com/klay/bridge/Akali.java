@@ -1,6 +1,6 @@
 package com.klay.bridge;
 
-public class Akali implements Hero {
+public class Akali extends Hero {
 
     private SkillQ q;
 
