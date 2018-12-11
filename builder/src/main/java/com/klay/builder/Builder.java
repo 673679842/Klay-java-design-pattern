@@ -1,3 +1,7 @@
+package com.klay.builder;
+
+import com.klay.builder.Akali;
+
 public abstract class Builder {
     protected Akali akali = new Akali();
     public abstract void buildDamage(String damage);
